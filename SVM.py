@@ -2,7 +2,7 @@
 # -------| Written By: Muhammad Shaffay |-------#
 # ----------------------------------------------#
 
-# A Support Vector Machine algorithm with regularized weights...
+# A Support Vector Machine algorithm with regularized weights....
 # 1: Here the bias term is considered as the last added feature 
 # 2: Append a column of ones in X in the train function before using 
 
